@@ -4,7 +4,7 @@
 class Crgenerator < Formula
     desc "Analysis Git commits, extract JIRA issues and pull details for Change Request process"
     homepage "https://github.com/GaaraZhu/crgenerator"
-    url "https://github.com/GaaraZhu/crgenerator/releases/download/v0.1.0/crgenerator"
+    url "https://github.com/GaaraZhu/crgenerator/releases/download/v0.1.1/crgenerator"
     sha256 "24147499d7ca9b15ed378619b1bfc7552d9b337ba0801cd1c32204c6fb624604"
     license "MIT"
 
