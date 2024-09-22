@@ -4,8 +4,8 @@
 class Crgenerator < Formula
     desc "Analysis Git commits, extract JIRA issues and pull details for Change Request process"
     homepage "https://github.com/GaaraZhu/crgenerator"
-    url "https://github.com/GaaraZhu/crgenerator/releases/download/v0.1.6/crgenerator"
-    sha256 "0f966f4edfa72deb83bf4c6d558e35c10322523b2a729f0ae2f79ff74153478e"
+    url "https://github.com/GaaraZhu/crgenerator/releases/download/v0.1.7/crgenerator"
+    sha256 "1e29ab4cc1189fc7a3acfed859756fd676718f22f5f09523bb91dc5b5640e580"
     license "MIT"
 
     # depends_on "cmake" => :build
